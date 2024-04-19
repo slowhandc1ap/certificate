@@ -1,5 +1,6 @@
 # certificate
-![MiniBootcamp](https://github.com/slowhandc1ap/certificate/assets/120072774/4f477e41-0419-4c51-a193-fc2e457ac538)
+
+![certificate-of-completion-for-mini-data-science-bootcamp_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/827f5049-a63c-441f-8a4e-53dcd0232801)
 
 
 ![borntodev-acdemy_Essential SQL for Everyone_certifiacte](https://github.com/slowhandc1ap/certificate/assets/120072774/a8ba9e67-352a-4c55-a9de-b3387e6b2fa0)
