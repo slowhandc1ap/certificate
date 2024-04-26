@@ -1,6 +1,6 @@
 # certificate
 
-![DataRockie School - Mini Data Science Bootcamp 2024 - 2024-04-26 (1)]([https://github.com/slowhandc1ap/certificate/assets/120072774/5cef34b0-5265-411c-9906-48e511b63e84](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew?identity__email=tanakornit1407%40gmail.com))
+<img src= "image.jpg" alt="your-image-description" style="border: 2px solid grey;">
 
 ![certificate-of-completion-for-mini-data-science-bootcamp-2024_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/45ac4d4e-12e8-4475-bf98-2dcc7aae7be0)
 
