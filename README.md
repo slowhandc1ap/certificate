@@ -7,7 +7,7 @@
 > 
 > **Awarded To:** TANAKORN TAWEETHAWON
 > 
-> [VERIFY]([https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FUbnJFp3-StOyKiLP7sH2Ew%3Fidentity__email%3Dtanakornit1407%2540gmail.com&identity__email=tanakornit1407%40gmail.com](https://badgr.com/backpack/badges/662bbad1e6029017b0b76c1b))
+> [VERIFY]([[https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FUbnJFp3-StOyKiLP7sH2Ew%3Fidentity__email%3Dtanakornit1407%2540gmail.com&identity__email=tanakornit1407%40gmail.com](https://badgr.com/backpack/badges/662bbad1e6029017b0b76c1b)](https://badgr.com/backpack/badges/662bbad1e6029017b0b76c1b))
 > 
 ![certificate-of-completion-for-mini-data-science-bootcamp-2024_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/45ac4d4e-12e8-4475-bf98-2dcc7aae7be0)
 
