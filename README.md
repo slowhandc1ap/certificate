@@ -2,7 +2,13 @@
 
 ![](https://ci3.googleusercontent.com/meips/ADKq_NYfLGw62LPb2jLeuAZZ5UqHtQzUX--1XukuJ-GxD6aS8lrTw-_4qWhWsBwixFTA8d4FBifdJMl1G2AzreUPnfqBxa7oqNmAcP3nfHAqsBM2Iqcvfqm45Wp_KT4YiLU=s0-d-e1-ft#https://api.badgr.io/public/badges/R2b_7iDFQse5ziLlvkxZIQ/image?type=png)
 
-![](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=tanakornit1407%40gmail.com "Badge: Mini Data Science Bootcamp 2024")
+> [![](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew/image)](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew?identity__email=tanakornit1407%40gmail.com)
+> 
+> Mini Data Science Bootcamp 2024
+> 
+> **Awarded:** 26 เม.ย. 2024
+> 
+> **Awarded To:** TANAKORN TAWEETHAWON
 
 ![certificate-of-completion-for-mini-data-science-bootcamp-2024_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/45ac4d4e-12e8-4475-bf98-2dcc7aae7be0)
 
