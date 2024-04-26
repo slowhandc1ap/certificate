@@ -2,7 +2,7 @@
 
 ![](https://ci3.googleusercontent.com/meips/ADKq_NYfLGw62LPb2jLeuAZZ5UqHtQzUX--1XukuJ-GxD6aS8lrTw-_4qWhWsBwixFTA8d4FBifdJMl1G2AzreUPnfqBxa7oqNmAcP3nfHAqsBM2Iqcvfqm45Wp_KT4YiLU=s0-d-e1-ft#https://api.badgr.io/public/badges/R2b_7iDFQse5ziLlvkxZIQ/image?type=png)
 
-> [![](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew/image)](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew?identity__email=tanakornit1407%40gmail.com)
+> [![](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew/image)](https://badgr.com/backpack/badges/662bbad1e6029017b0b76c1b)
 > 
 > Mini Data Science Bootcamp 2024
 > 
