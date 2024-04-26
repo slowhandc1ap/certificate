@@ -1,14 +1,11 @@
 # certificate
-> [![](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew/image)](https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew?identity__email=tanakornit1407%40gmail.com)
-> 
-> Mini Data Science Bootcamp 2024
-> 
-> **Awarded:** 26 เม.ย. 2024
-> 
-> **Awarded To:** TANAKORN TAWEETHAWON
-> 
-> [VERIFY]([[https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FUbnJFp3-StOyKiLP7sH2Ew%3Fidentity__email%3Dtanakornit1407%2540gmail.com&identity__email=tanakornit1407%40gmail.com](https://badgr.com/backpack/badges/662bbad1e6029017b0b76c1b)](https://badgr.com/backpack/badges/662bbad1e6029017b0b76c1b))
-> 
+| | | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|type|id|@context|recipient| | | |badge|issuedOn|image|revoked|verification|extensions:recipientProfile| | |
+| | | |type|salt|hashed|identity| | |id| |type|@context|type|name|
+|Assertion|https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew|https://w3id.org/openbadges/v2|email|MMQro5eo3CvV9usE|TRUE|sha256$ece4c205fd9600efda785d45bcc00fc3d9464b9b1e3d2ca5ed6b509c92a0d902|https://api.badgr.io/public/badges/R2b_7iDFQse5ziLlvkxZIQ|2024-04-25T17:00:00Z|https://api.badgr.io/public/assertions/UbnJFp3-StOyKiLP7sH2Ew/image|FALSE|HostedBadge|https://openbadgespec.org/extensions/recipientProfile/context.json|Extension|TANAKORN TAWEETHAWON|
+| | | | | | | | | | | | | |extensions:RecipientProfile| |
+
 ![certificate-of-completion-for-mini-data-science-bootcamp-2024_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/45ac4d4e-12e8-4475-bf98-2dcc7aae7be0)
 
 
