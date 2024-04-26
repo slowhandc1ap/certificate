@@ -1,6 +1,6 @@
 # certificate
 
-<img src= "image.jpg" alt="your-image-description" style="border: 2px solid grey;">
+<img src= "badge1.png" alt="your-image-description" style="border: 2px solid grey;">
 
 ![certificate-of-completion-for-mini-data-science-bootcamp-2024_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/45ac4d4e-12e8-4475-bf98-2dcc7aae7be0)
 
