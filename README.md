@@ -7,6 +7,7 @@
 
 ![certificate-of-completion-for-mini-data-science-bootcamp-2024_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/45ac4d4e-12e8-4475-bf98-2dcc7aae7be0)
 
+![Certificate-BMD1004-TH_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/d73c4e28-7413-485f-aaf2-0d14e5d3e14f)
 
 ![borntodev-acdemy_Essential SQL for Everyone_certifiacte](https://github.com/slowhandc1ap/certificate/assets/120072774/a8ba9e67-352a-4c55-a9de-b3387e6b2fa0)
 
