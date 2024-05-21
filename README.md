@@ -4,6 +4,7 @@
 
 ![badge_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/7fbf48ac-7e95-40d6-b22f-5108b633085f)
 
+![certificate-of-completion-for-correlation-and-regression-for-the-curious_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/05eba4c8-9981-4de5-9121-56a73dab66b0)
 
 ![certificate-of-completion-for-mini-data-science-bootcamp-2024_page-0001](https://github.com/slowhandc1ap/certificate/assets/120072774/45ac4d4e-12e8-4475-bf98-2dcc7aae7be0)
 
